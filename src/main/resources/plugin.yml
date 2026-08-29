@@ -1,1 +1,6 @@
-
+name: ZyroAC
+version: 1.0.0
+main: io.github.alfiewil1312.zyroac.ZyroAC
+api-version: '1.21'
+author: alfiewil1312
+description: Zyro Anti-Cheat
